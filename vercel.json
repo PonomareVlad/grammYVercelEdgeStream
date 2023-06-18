@@ -1,0 +1,9 @@
+{
+  "functions": {
+    "**": {
+      "includeFiles": "*.json"
+    }
+  },
+  "installCommand": "npm ci --omit=dev",
+  "buildCommand": "node src/build.mjs"
+}
