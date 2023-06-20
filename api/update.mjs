@@ -1,6 +1,6 @@
 import {bot} from "../src/bot.mjs";
 import {secretToken} from "../src/data.mjs";
-import {webhookStream} from "vercel-grammy/edge.mjs";
+import {webhookStream} from "vercel-grammy";
 
 export const config = {runtime: "edge"};
 
