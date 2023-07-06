@@ -3,8 +3,8 @@ import {bot, secretToken} from "../src/bot.mjs";
 
 export const config = {runtime: "edge"};
 
-// Default grammY handler for incoming updates via webhooks
+// Custom grammY handler for incoming updates via webhooks with streaming response
 export default webhookStream(bot, {
-    timeoutMilliseconds: 29_000,
+    timeoutMilliseconds: 59_000,
     secretToken,
 });
