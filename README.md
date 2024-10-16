@@ -1,3 +1,5 @@
+> Deprecated, try [new version](https://github.com/PonomareVlad/grammYVercel) instead ✨ 
+
 # Telegram Bot Template for [Vercel Edge Functions](https://vercel.com/docs/concepts/functions/edge-functions) with [streaming response](https://vercel.com/docs/concepts/functions/edge-functions/streaming)
 
 > 📖 [Documentation for grammY](https://grammy.dev)
