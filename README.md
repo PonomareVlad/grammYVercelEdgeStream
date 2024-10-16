@@ -88,10 +88,5 @@ npm run start
 - [api/webhook.mjs](api/webhook.mjs) — Function for set webhook URL at dev
 - [api/update.mjs](api/update.mjs) — Function for receiving updates
 
-## Related templates
-
-- [For Vercel Edge Functions](https://github.com/PonomareVlad/grammYVercelEdge)
-- [For Vercel Edge Functions with streaming response](https://github.com/PonomareVlad/grammYVercelEdgeStream)
-- [For Vercel Serverless Functions](https://github.com/PonomareVlad/grammYVercel)
 
 Made with 💜 by [Vladislav Ponomarev](https://GitHub.com/PonomareVlad)
